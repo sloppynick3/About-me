@@ -20,9 +20,9 @@ Portfolio mājaslapa: Nākotnē
 Šī tīmekļa lapa ir pieejama internetā [atrodiskolu.lv](http://atrodiskolu.lv/) un tā tika veidota konkursam "Hakatons 2019", kas bija 24 dienu programmēšanas maratons. Diemžēl mēs netikām top 3, bet tāpat nav slikti priekš pirmā konkursa tikt top 7 un pieveikt kā minimums 20 citas komandas. Es biju, tas kas strādāja ar back-end un laiku pa laikam palīdzēju ar front-end un datu bāzi, kad vajadzēja. Kā arī izveidoju pirmo skici, no kurienis dabūja iedvesmu par esošās mājaslapas dizainu.
 ### Mājaslapa pēc skices (Web)
 Šis projekts ir no trīs daļām.
-      1.Izveidot mājaslapu pēc savas skices [Šeit](https://github.com/sloppynick3/Majaslapa-pec-skices)
-      2.Izveidot mājaslapu pēc savas skices ar bootstrap
-      3.Izveidot mājaslapu pēc kāda cita cilvēka skices
+      1.Izveidot mājaslapu pēc savas skices [Šeit](https://github.com/sloppynick3/Majaslapa-pec-skices)  
+      2.Izveidot mājaslapu pēc savas skices ar bootstrap  
+      3.Izveidot mājaslapu pēc kāda cita cilvēka skices  
 Pagaidām projekti nav īsti grūti, bet vairāk laikietilpīgi, tā kā nevadzēs veidot datubāzi un serveri.
 
 ### Darāmo lietu saraksts (C++)
