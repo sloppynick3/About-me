@@ -8,7 +8,7 @@ Mani sauc Niks Kozlovs un es mācos Rīgas Valsts tehnikumā no 2016. gada. Mani
 Ne ar katru hobiju es nodarbojos visu laiku, bet es vienmēr tos izbaudu, kad varu.
 - Datorspēles - Manuprāt tie vienmēr būs manā dzīvē vairāk vai mazak it īpaši, kad man ir jautri ar draugiem.
 - Mūzika - pēdējos pāris gadus es sāku klausīties mūziku daudz, daudz vairāk un tagat es klausos, kad varu uzvilkt austiņas galvā- 
-- Modelēsana - Pagaidām tas ir mākslas veidz, kas man iet vislabāk (izņemot programmēšanu), bet es ar to nenodarbojos bieži, tā kā tas ir laika ietilpīgi.
+- Modelēsana - Pagaidām tas ir mākslas veidz, kas man iet vislabāk (neskaitot programmēšanu), bet es ar to nenodarbojos bieži, tā kā tas ir laika ietilpīgi.
 - Trenēšanās - lai dzīvotu veselīgāku dzīvi es nodarbojos ar trenēšanos (ielu vingrošana un svaru celšana).
 - Riteņbraukšana - ja ārā ir silts, tad es ar prieku brauktu ar savu riteni pa ielām.
 - Peldēšana - vasarā vienmēr eju peldēt un cenšos uzlaboties.
