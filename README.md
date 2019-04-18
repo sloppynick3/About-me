@@ -8,7 +8,7 @@ Mani sauc Niks Kozlovs un es mācos Rīgas Valsts tehnikumā no 2016. gada. Mani
 Šeit būs visi, kas manuprāt ir lielākie, projekti lai nevajadzētu meklēt pa visurieni.
 Portfolio mājaslapa: Nākotnē
 Šo mājaslapu es gribētu uztaisīt, lai būtu labāk nekā rakstīt šajā teksta failā. Un es varetu kontrolēt labāk, kā viss izskatās. Problēma ir, ka tas aizņemtu daudz laika lai izdarītu.
-### [Atrodiskolu](https://github.com/nilsons20000/hakatons) (web).
+### [Atrodiskolu  (web)](https://github.com/nilsons20000/hakatons).
 Šī tīmekļa lapa ir pieejama internetā [atrodiskolu.lv](http://atrodiskolu.lv/) un tā tika veidota konkursam "Hakatons 2019", kas bija 24 dienu programmēšanas maratons. Diemžēl mēs netikām top 3, bet tāpat nav slikti priekš pirmā konkursa tikt top 7 un pieveikt kā minimums 20 citas komandas. Es biju, tas kas strādāja ar back-end un laiku pa laikam palīdzēju ar front-end un datu bāzi, kad vajadzēja. Kā arī izveidoju pirmo skici, no kurienis dabūja iedvesmu par esošās mājaslapas dizainu.
 ### Mājaslapa pēc skices (Web)
 Šis projekts ir no trīs daļām.  
