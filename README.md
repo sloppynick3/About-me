@@ -14,7 +14,7 @@ Portfolio mājaslapa: Nākotnē
 Šis projekts ir no trīs daļām.  
         1.Izveidot mājaslapu pēc savas skices [Šeit](https://github.com/sloppynick3/Majaslapa-pec-skices)  
         2.Izveidot mājaslapu pēc savas skices ar bootstrap  
-        3.Izveidot mājaslapu pēc kāda cita cilvēka skices  
+        3.Izveidot mājaslapu pēc kāda cita cilvēka skices  [Šeit](https://github.com/sloppynick3/Darbs-pec-skices)
 Pagaidām projekti nav īsti grūti, bet vairāk laikietilpīgi.
 
 ### Darāmo lietu saraksts (C++)
