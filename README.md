@@ -14,15 +14,15 @@ Portfolio mājaslapa: Nākotnē
 Šis projekts ir no trīs daļām.  
         1.Izveidot mājaslapu pēc savas skices [Šeit](https://github.com/sloppynick3/Majaslapa-pec-skices)  
         2.Izveidot mājaslapu pēc savas skices ar bootstrap  
-        3.Izveidot mājaslapu pēc kāda cita cilvēka skices  [Šeit](https://github.com/sloppynick3/Darbs-pec-skices)
+        3.Izveidot mājaslapu pēc kāda cita cilvēka skices  [Šeit](https://github.com/sloppynick3/Darbs-pec-skices)  
 Pagaidām projekti nav īsti grūti, bet vairāk laikietilpīgi.
 
 ### [Darāmo lietu saraksts (C++)](https://github.com/sloppynick3/ToDoList)
 Šis projekts ir vecāks un tika izveidots C++ programmēšanas valodā.
 Visgrūtākais sākumā bija uzzināt sintaksi lai būtu interaktivitāte ar grafisko vidi.
 
-### Bankas aplikācija (Java)
-[Šis](https://github.com/sloppynick3/Bankas-aplikacija) projekts ir lielakais, ko es dariju Java valodā un ap šo laiku es sāku zināt vairāk par programmēšanu.
+### [Bankas aplikācija (Java)](https://github.com/sloppynick3/Bankas-aplikacija)
+Šis projekts ir lielakais, ko es dariju Java valodā un ap šo laiku es sāku zināt vairāk par programmēšanu.
 
 
 ### Hobiji
