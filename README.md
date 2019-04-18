@@ -1,4 +1,3 @@
-# About-me
 Apraksts par mani un maniem projektiem
 
 Šeit var uzzināt vairāk par mani, ko es daru un kādus projektus esmu taisījis. Parasti es mazos projektus nelieku githubā, tā kā man tas šķiet bezjēdzīgi.
