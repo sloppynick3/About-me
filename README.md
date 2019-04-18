@@ -15,7 +15,7 @@ Portfolio mājaslapa: Nākotnē
         1.Izveidot mājaslapu pēc savas skices [Šeit](https://github.com/sloppynick3/Majaslapa-pec-skices)  
         2.Izveidot mājaslapu pēc savas skices ar bootstrap  
         3.Izveidot mājaslapu pēc kāda cita cilvēka skices  
-Pagaidām projekti nav īsti grūti, bet vairāk laikietilpīgi, tā kā nevadzēs veidot datubāzi un serveri.
+Pagaidām projekti nav īsti grūti, bet vairāk laikietilpīgi.
 
 ### Darāmo lietu saraksts (C++)
 [Šis](https://github.com/sloppynick3/ToDoList) projekts ir vecāks un tika izveidots C++ programmēšanas valodā.
