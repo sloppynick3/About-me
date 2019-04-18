@@ -3,7 +3,7 @@ Apraksts par mani un maniem projektiem
 
 Šeit var uzzināt vairāk par mani, ko es daru un kādus projektus esmu taisījis. Parasti es mazos projektus nelieku githubā, tā kā man tas šķiet bezjēdzīgi.
 ## Par mani
-Mani sauc Niks Kozlovs un es mācos Rīgas Valsts tehnikumā no 2016. gada. Mani jau labu laiku unteresēja tehnologija un visvairāk tieši programmu veidošana. Vienalga vai tā ir spēle vai aplikācija. Pat tagat tas šķiet ļoti grūti uztaisīt tādas lietas it īpaši lai tās labi strādātu.
+Mani sauc Niks Kozlovs un es mācos Rīgas Valsts tehnikumā no 2016. gada. Mani jau labu laiku unteresēja tehnologija un visvairāk tieši programmu veidošana. Vienalga vai tā ir spēle vai aplikācija.
 ## Projekti
 Šeit būs visi, kas manuprāt ir lielākie, projekti lai nevajadzētu meklēt pa visurieni.
 Portfolio mājaslapa: Nākotnē
