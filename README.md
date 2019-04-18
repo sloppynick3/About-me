@@ -4,14 +4,6 @@ Apraksts par mani un maniem projektiem
 Šeit var uzzināt vairāk par mani, ko es daru un kādus projektus esmu taisījis. Parasti es mazos projektus nelieku githubā, tā kā man tas šķiet bezjēdzīgi.
 ## Par mani
 Mani sauc Niks Kozlovs un es mācos Rīgas Valsts tehnikumā no 2016. gada. Mani jau labu laiku unteresēja tehnologija un visvairāk tieši programmu veidošana. Vienalga vai tā ir spēle vai aplikācija. Pat tagat tas šķiet ļoti grūti uztaisīt tādas lietas it īpaši lai tās labi strādātu.
-### Hobiji
-Ne ar katru hobiju es nodarbojos visu laiku, bet es vienmēr tos izbaudu, kad varu.
-- Datorspēles - Manuprāt tie vienmēr būs manā dzīvē vairāk vai mazak it īpaši, kad man ir jautri ar draugiem.
-- Mūzika - pēdējos pāris gadus es sāku klausīties mūziku daudz, daudz vairāk un tagat es klausos, kad varu uzvilkt austiņas galvā- 
-- Modelēsana - Pagaidām tas ir mākslas veidz, kas man iet vislabāk (neskaitot programmēšanu), bet es ar to nenodarbojos bieži, tā kā tas ir laika ietilpīgi.
-- Trenēšanās - lai dzīvotu veselīgāku dzīvi es nodarbojos ar trenēšanos (ielu vingrošana un svaru celšana).
-- Riteņbraukšana - ja ārā ir silts, tad es ar prieku brauktu ar savu riteni pa ielām.
-- Peldēšana - vasarā vienmēr eju peldēt un cenšos uzlaboties.
 ## Projekti
 Šeit būs visi, kas manuprāt ir lielākie, projekti lai nevajadzētu meklēt pa visurieni.
 Portfolio mājaslapa: Nākotnē
@@ -31,3 +23,13 @@ Visgrūtākais sākumā bija uzzināt sintaksi lai būtu interaktivitāte ar gra
 
 ### Bankas aplikācija (Java)
 [Šis](https://github.com/sloppynick3/Bankas-aplikacija) projekts ir lielakais, ko es dariju Java valodā un ap šo laiku es sāku zināt vairāk par programmēšanu.
+
+
+### Hobiji
+Ne ar katru hobiju es nodarbojos visu laiku, bet es vienmēr tos izbaudu, kad varu.
+- Datorspēles - Manuprāt tie vienmēr būs manā dzīvē vairāk vai mazak it īpaši, kad man ir jautri ar draugiem.
+- Mūzika - pēdējos pāris gadus es sāku klausīties mūziku daudz, daudz vairāk un tagat es klausos, kad varu uzvilkt austiņas galvā- 
+- Modelēsana - Pagaidām tas ir mākslas veidz, kas man iet vislabāk (neskaitot programmēšanu), bet es ar to nenodarbojos bieži, tā kā tas ir laika ietilpīgi.
+- Trenēšanās - lai dzīvotu veselīgāku dzīvi es nodarbojos ar trenēšanos (ielu vingrošana un svaru celšana).
+- Riteņbraukšana - ja ārā ir silts, tad es ar prieku brauktu ar savu riteni pa ielām.
+- Peldēšana - vasarā vienmēr eju peldēt un cenšos uzlaboties.
