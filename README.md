@@ -17,8 +17,8 @@ Portfolio mājaslapa: Nākotnē
         3.Izveidot mājaslapu pēc kāda cita cilvēka skices  [Šeit](https://github.com/sloppynick3/Darbs-pec-skices)
 Pagaidām projekti nav īsti grūti, bet vairāk laikietilpīgi.
 
-### Darāmo lietu saraksts (C++)
-[Šis](https://github.com/sloppynick3/ToDoList) projekts ir vecāks un tika izveidots C++ programmēšanas valodā.
+### [Darāmo lietu saraksts (C++)](https://github.com/sloppynick3/ToDoList)
+Šis projekts ir vecāks un tika izveidots C++ programmēšanas valodā.
 Visgrūtākais sākumā bija uzzināt sintaksi lai būtu interaktivitāte ar grafisko vidi.
 
 ### Bankas aplikācija (Java)
